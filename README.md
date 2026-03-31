@@ -1,5 +1,5 @@
-# my-biodata
+# biodata
 
-[Screenshot] Screenshot.jpg 
+![Screenshot](Screenshot.jpg)
 
-Live Demo (https://rinki88.github.io/mybiodata/)
+[Live Demo](https://rinki88.github.io/biodata/)
